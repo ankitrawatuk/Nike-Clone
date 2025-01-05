@@ -1,4 +1,4 @@
-# Nike Landing Page with React.js and Tailwind CSS 🏃‍♂️🥾
+# Nike Landing Page with React.js 
 
 This is a simple **Nike landing page** built using **React.js and Tailwind CSS**. The project aims to demonstrate the use of these technologies to create a responsive and visually appealing website.
 
@@ -19,31 +19,6 @@ This is a simple **Nike landing page** built using **React.js and Tailwind CSS**
 - Header with logo, navigation links, and search bar
 - Footer with social media icons and copyright notice
 
-## Installation
-To set up the project, follow these steps:
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/HamzaZaidiX/Nike-Landing-Page.git
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd Nike-Landing-Page
-   ```
-
-3. Install dependencies:
-   ```
-   npm install
-   ```
-
-4. Start the development server:
-   ```
-   npm start
-   ```
-
-## Usage
-Once the project is set up and running, you can access the website at http://localhost:3000. The shoe cards will display the thumbnail images of the shoes. Clicking on a shoe card will open a larger image in a modal.
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/0b7b6296-7a15-4fa4-b301-ef960591f416)
@@ -56,10 +31,4 @@ Once the project is set up and running, you can access the website at http://loc
 ## Contributing
 If you'd like to contribute to this project, please feel free to submit a pull request. I'm always open to suggestions and improvements.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/your-username/nike_landing_page/blob/main/LICENSE) file for more information.
 
-## Acknowledgments
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React.js](https://reactjs.org/)
-- [Font Awesome](https://fontawesome.com/)
